@@ -123,6 +123,9 @@ a {
   color: #434455;
 }
 
+.portfolio-item {
+  background-color: #ffffff;
+}
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
