@@ -66,30 +66,23 @@ a {
 }
 
 .studio-btn {
-  font-weight: 500;
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  color: #fff;
-  background-color: #4d5ae5;
+  color: #ffffff;
+  background: #4d5ae5;
   cursor: pointer;
 }
 
 .studio-btn:hover,
 .studio-btn:focus {
-  background-color: #404bbf;
+  background: #404bbf;
 }
 
 .portfolio-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
