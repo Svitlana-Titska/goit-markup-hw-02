@@ -110,16 +110,13 @@ a {
 .contacts {
   background-color: #f4f4fd;
 }
-.contacts-title-text,
-.contacts-text {
-  background-color: #ffffff;
-}
 
 .contacts-title-text {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #2e2f42;
 }
 
@@ -138,6 +135,10 @@ a {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
+}
+
+.portfolio-item {
+  background-color: #ffffff;
 }
 
 .portfolio-title-text {
